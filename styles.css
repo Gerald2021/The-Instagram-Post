@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center
+}
+
+.post {
+    max-width: 480px;
+    background-color: white;
+    margin-top: 50px
+}
+
+.postHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right:10px;
+    overflow: hidden
+}
+
+.postHeader ul {
+    list-style-type: none;
+    padding-left: 0
+}
+
+.postHeader div {
+    display: flex;
+    align-items: center
+}
+
+i {
+    font-size: 30px;
+    margin-right: 10px
+}
+
+.postImg img {
+    width: 480px
+}
+
+.postIcons {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px
+}
+
+.postFooter1 {
+    padding-left: 10px
+}
+
+.postFooter1 span {
+    font-weight: 1000
+}
+
+.postFooter2 {
+    padding-left: 10px;
+    padding-right: 10px
+   
+}
+
+
+
+
+
+
+
+
+
+
+
